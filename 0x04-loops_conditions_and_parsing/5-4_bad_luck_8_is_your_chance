@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# script displaying " good luck" "Holberton School" "bad luck" 
+# script displaying " good luck" "Best School" "bad luck" 
 CONTER=0
 while [ $CONTER -lt 10 ];
 do
@@ -10,7 +10,8 @@ echo "bad luck"
     then
 echo "good luck"
     else
-echo "Holberton School"
+echo "Best School"
     fi
     let CONTER=CONTER+1
 done
+
