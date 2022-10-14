@@ -6,4 +6,3 @@ do
     echo "Best School"
     let cont=cont+1
 done
-
