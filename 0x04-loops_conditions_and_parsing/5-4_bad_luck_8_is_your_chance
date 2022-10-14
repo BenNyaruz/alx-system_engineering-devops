@@ -14,4 +14,3 @@ echo "Best School"
     fi
     let CONTER=CONTER+1
 done
-
